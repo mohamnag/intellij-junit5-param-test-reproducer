@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.starter.TestMainVerticle" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-14T15:55:51" hostname="Mohammads-MacBook-Pro-2.local" time="0.259">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="com.example.starter.TestMainVerticle" time="0.243"/>
+  <testcase name="whatever()" classname="com.example.starter.TestMainVerticle" time="0.014"/>
+  <system-out><![CDATA[HTTP server started on port 8888
+HTTP server started on port 8888
+yuhu!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
